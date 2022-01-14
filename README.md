@@ -1,4 +1,12 @@
 # Bilkent University 2021-2022 CS342/Operating System 
+
+### Project and HomeWork Grades
++ **Board members can add an event to the system with a specified number of students**                              <br />
+***Project1:  90 ***     
+***Project2:  85 ***      
+***Project3:  100 ***  
+***Homework1: 100 ***  
+<br />
 ## ~ Project 1 ~
 ### Project Description
 Two Folders are given for testing for the same application. project1_part1_thread  project1_part1_pipe should be tested in their own folders.  
