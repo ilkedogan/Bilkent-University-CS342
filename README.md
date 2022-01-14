@@ -24,7 +24,7 @@ the behaviour of a philosopher.
 ***1. run schedule.c***
 
 ## ~ Project 3 ~
-### Project Description
+### Project Description - Synchronization
 ***Dining philosophers problem:*** Problem solved by using Pthreads mutex and condition variables. There will be 5 philosophers, numbered from 0 to 4. Neighboring philosophers should not eat at the same time. Each such thread  simulate the behaviour of a philosopher.
 ## Run Tips
 ***1. run phil.c***
