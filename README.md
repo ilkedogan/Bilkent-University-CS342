@@ -2,10 +2,10 @@
 
 ### Project and HomeWork Grades
 
-***Project1:  90***     
-***Project2:  85***      
-***Project3:  100***  
-***Homework1: 100***  
+***Project 1:  90***     
+***Project 2:  85***      
+***Project 3:  100***  
+***Homework 1: 100***  
 <br />
 ## ~ Project 1 ~
 ### Project Description
